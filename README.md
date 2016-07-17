@@ -5,4 +5,4 @@ packages, Its main purpose is to send accurate gps co-ordinates to the web modul
 and then monitor the journey of the module.
 It only the android version is currently under development.
 
-[**Downlod soon!**]()
+[**Download soon!**]()
